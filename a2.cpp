@@ -6,5 +6,6 @@ int main()
 	cout<<"Eneter two no.s";
 	cin>>a>>b;
 	cout<<"Sum "<<a+b;
+	cout<<"Substraction "<<a-b;
 	return 0;
 }
