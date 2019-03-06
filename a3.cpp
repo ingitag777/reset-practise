@@ -8,6 +8,6 @@ int main()
 	if(a>b)
 		cout<<"First no. is greater";
 	else
-		cout<<"Second is greater";
+		cout<<"Second no. is greater";
 	return 0;
 }

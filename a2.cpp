@@ -7,5 +7,6 @@ int main()
 	cin>>a>>b;
 	cout<<"Sum "<<a+b;
 	cout<<"Substraction "<<a-b;
+	cout<<"Multiplication "<<a*b;
 	return 0;
 }
