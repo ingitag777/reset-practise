@@ -7,5 +7,7 @@ int main()
 	cin>>a>>b;
 	if(a>b)
 		cout<<"First no. is greater";
+	if (a<b)
+		cout<<"Second is greater";
 	return 0;
 }
