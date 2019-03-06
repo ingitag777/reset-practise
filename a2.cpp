@@ -8,5 +8,6 @@ int main()
 	cout<<"Sum "<<a+b;
 	cout<<"Substraction "<<a-b;
 	cout<<"Multiplication "<<a*b;
+	cout<<"last commit\n";
 	return 0;
 }
